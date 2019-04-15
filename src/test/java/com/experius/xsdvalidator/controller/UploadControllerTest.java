@@ -1,6 +1,6 @@
-package com.hsbc.xsdvalidator.controller;
+package com.experius.xsdvalidator.controller;
 
-import com.hsbc.xsdvalidator.service.ValidatorService;
+import com.experius.xsdvalidator.service.ValidatorService;
 import org.hamcrest.CoreMatchers;
 import org.junit.Test;
 import org.junit.runner.RunWith;

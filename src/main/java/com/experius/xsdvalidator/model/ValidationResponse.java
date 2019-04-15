@@ -1,4 +1,4 @@
-package com.hsbc.xsdvalidator.model;
+package com.experius.xsdvalidator.model;
 
 import java.util.List;
 

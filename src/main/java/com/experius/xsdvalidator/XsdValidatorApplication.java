@@ -1,4 +1,4 @@
-package com.hsbc.xsdvalidator;
+package com.experius.xsdvalidator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package com.hsbc.xsdvalidator.controller;
+package com.experius.xsdvalidator.controller;
 
-import com.hsbc.xsdvalidator.model.ValidationResponse;
-import com.hsbc.xsdvalidator.service.ValidatorService;
+import com.experius.xsdvalidator.model.ValidationResponse;
+import com.experius.xsdvalidator.service.ValidatorService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

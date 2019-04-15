@@ -1,4 +1,4 @@
-package com.hsbc.xsdvalidator.service;
+package com.experius.xsdvalidator.service;
 
 import org.springframework.stereotype.Service;
 import org.xml.sax.ErrorHandler;

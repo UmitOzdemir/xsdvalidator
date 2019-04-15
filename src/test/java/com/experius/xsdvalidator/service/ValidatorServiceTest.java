@@ -1,4 +1,4 @@
-package com.hsbc.xsdvalidator.service;
+package com.experius.xsdvalidator.service;
 
 import org.junit.Before;
 import org.junit.Rule;
